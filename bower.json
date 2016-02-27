@@ -1,5 +1,5 @@
 {
-  "name": "corejs-typeahead",
+  "name": "rivet-typeahead",
   "version": "0.11.1",
   "main": "dist/typeahead.bundle.js",
   "dependencies": {
